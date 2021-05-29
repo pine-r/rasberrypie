@@ -1,5 +1,2 @@
-# rentingsong
-1¡¢½«ÎÄ¼ş¼Ğapps±ê¼ÇÎªsource root
-2¡¢´´½¨appÃüÁî£º python manage.py startapp appname
-3¡¢settingÉèÖÃ£¬½«apps, templatesÌí¼Óµ½setting.pyÎÄ¼şÖĞ¡£
-4¡¢django urls¹ÜÀí£¬·ÃÎÊµÄÊ±ºò£¬ÍøÖ·Ó¦¸ÃÎª£º127.0.0.1£º8000/<global_url_namespace_name>/<app_url_name>
+# è®°å½•æ ‘è“æ´¾ç»ƒä¹ å®éªŒé¡¹ç›®ä»£ç 
+1ã€åŒè‰²ELDå®éªŒ
